@@ -6,7 +6,7 @@ position:fixed;z-index:1;width:60%;height:90%;top:50;left:110px;
 
 ;
 }
- div{
+ #regular{
     
     background-color: rgb(255, 255, 255);
  
@@ -16,3 +16,6 @@ position:fixed;z-index:1;width:60%;height:90%;top:50;left:110px;
    box-sizing: border-box;
    width: 25%;
    height:25% ;}
+   #choice{
+    border: solid black;
+   }
