@@ -1,0 +1,18 @@
+#maincontainer { display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+position:fixed;z-index:1;width:60%;height:90%;top:50;left:110px;
+
+
+;
+}
+ div{
+    
+    background-color: rgb(255, 255, 255);
+ 
+
+   border:solid black ;
+   border-width: 1px ;
+   box-sizing: border-box;
+   width: 25%;
+   height:25% ;}
